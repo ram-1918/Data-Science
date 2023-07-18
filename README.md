@@ -1,10 +1,10 @@
 # ML Algorithms
 As a data-driven web developer with a master's degree in Data Science, I am leveraging my expertise and passion for algorithms to showcase my knowledge and skills.
 
-1. Boston Housing Dataset
+1.Titanic Dataset
+   - Alogithms: Logistic Regression, Random Forests, SVM, Decison Trees, LDA, GNB, ABC, Gradient Boosting
+2. Boston Housing Dataset
    - Algorithms: Linear regression, Decision Trees, SVM
-2. Titanic Dataset
-   - Alogithms: Logistic Regression, Decison Trees, Random Forests
 3. Wine Quality
    - Algorithms: Linear regression, Random Forest, SVM
 4. Iris Dataset
