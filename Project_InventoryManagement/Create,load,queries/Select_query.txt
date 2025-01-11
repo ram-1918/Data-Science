@@ -1,0 +1,11 @@
+select * from Customer
+
+select * from Order_tbl
+
+select * from Employee
+
+select * from product
+
+select * from supplier
+
+select * from Summary
