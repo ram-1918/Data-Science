@@ -1,6 +1,11 @@
-# ML Algorithms
-As a data-driven web developer with a master's degree in Data Science, I am leveraging my expertise and passion for algorithms to showcase my knowledge and skills.
+# Academic Work Repository
 
-1.Titanic Dataset
-   - Alogithms: Logistic Regression, Random Forests, SVM, Decison Trees, LDA, GNB, ABC, Gradient Boosting
-* and more to go...
+This repository contains all my assignments, projects, and coursework completed during my studies. It includes Python code, Jupyter Notebook files, and data analysis work using Pandas.
+
+## What’s Inside
+- **Assignments**: Solutions for coursework and homework problems.
+- **Projects**: Mini-projects and major projects from my classes.
+- **Python and Pandas**: Code and notebooks showing data analysis, cleaning, and processing.
+- **Jupyter Lab Files**: Interactive notebooks for learning and practicing concepts.
+
+This repository is a collection of my academic efforts and practical learning. Feel free to explore!
